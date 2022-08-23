@@ -14,8 +14,14 @@
   ```
   git clone -b feature/restaurant_list --single-branch https://github.com/mmlee0819/AC_exercises.git
   ```
-- 在本地開啟之後，透過終端機進入資料夾，輸入：
+- 在本地透過終端機進入資料夾：
   ```
+  cd AC_exercises
+  cd ac_exercise_restaurantList
+  ```
+- 於終端機輸入指令：
+  ```
+  npm install
   npm run dev
   ```
 - 若看見以下訊息則代表已順利運行：
