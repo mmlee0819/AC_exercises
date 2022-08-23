@@ -1,6 +1,6 @@
 # 我的餐廳清單
 記錄造訪過的餐廳，使用者可瀏覽清單、查看個別餐廳資訊，也可用關鍵字搜尋特定餐廳
-<img src="https://github.com/mmlee0819/ac_exercise_restaurantList/blob/main/A1-screenshot-of-homepage.jpg" width="800" height="500">
+<img src="https://github.com/mmlee0819/AC_exercises/blob/feature/restaurant_list/ac_exercise_restaurantList/A1-screenshot-of-homepage.jpg" width="800" height="500">
 ## 功能 Features
 - 瀏覽所有餐廳
 - 點擊查看個別餐廳資訊與簡介
