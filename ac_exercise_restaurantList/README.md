@@ -12,7 +12,7 @@
 ## 安裝與執行步驟 Installation and Execution
 - 將專案複製到本地 → 打開終端機，輸入：
   ```
-  git clone https://github.com/mmlee0819/ac_exercise_restaurantList.git
+  git clone -b feature/restaurant_list --single-branch https://github.com/mmlee0819/AC_exercises.git
   ```
 - 在本地開啟之後，透過終端機進入資料夾，輸入：
   ```
